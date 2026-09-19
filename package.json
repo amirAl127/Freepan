@@ -1,0 +1,15 @@
+{
+  "name": "vless-panel",
+  "version": "1.0.0",
+  "description": "Lightweight VLESS/Xray management panel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
